@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
 PyPDF2
-langchain
+langchain==0.0.339
 google-generativeai
 faiss-cpu
